@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 // Declaring the variable...
-int a = 11;
+int a = 10;
 
 Console.WriteLine(a);
 
