@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\bin\Debug\net6.0\DaysInMonth.exe
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\bin\Debug\net6.0\DaysInMonth.deps.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\bin\Debug\net6.0\DaysInMonth.runtimeconfig.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\bin\Debug\net6.0\DaysInMonth.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\bin\Debug\net6.0\DaysInMonth.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.AssemblyInfo.cs
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\refint\DaysInMonth.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\DaysInMonth.genruntimeconfig.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\DaysInMonth\obj\Debug\net6.0\ref\DaysInMonth.dll

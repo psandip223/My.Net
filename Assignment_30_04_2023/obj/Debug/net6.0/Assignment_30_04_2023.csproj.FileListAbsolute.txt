@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\bin\Debug\net6.0\Assignment_30_04_2023.exe
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\bin\Debug\net6.0\Assignment_30_04_2023.deps.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\bin\Debug\net6.0\Assignment_30_04_2023.runtimeconfig.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\bin\Debug\net6.0\Assignment_30_04_2023.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\bin\Debug\net6.0\Assignment_30_04_2023.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.AssemblyInfo.cs
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\refint\Assignment_30_04_2023.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\Assignment_30_04_2023.genruntimeconfig.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\Assignment_30_04_2023\obj\Debug\net6.0\ref\Assignment_30_04_2023.dll

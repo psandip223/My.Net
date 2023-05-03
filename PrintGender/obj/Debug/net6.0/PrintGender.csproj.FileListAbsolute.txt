@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\bin\Debug\net6.0\PrintGender.exe
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\bin\Debug\net6.0\PrintGender.deps.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\bin\Debug\net6.0\PrintGender.runtimeconfig.json
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\bin\Debug\net6.0\PrintGender.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\bin\Debug\net6.0\PrintGender.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.AssemblyInfo.cs
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\refint\PrintGender.dll
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.pdb
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\PrintGender.genruntimeconfig.cache
+C:\Users\USER\Desktop\.NET Full stack\GitRepos\PrintGender\obj\Debug\net6.0\ref\PrintGender.dll

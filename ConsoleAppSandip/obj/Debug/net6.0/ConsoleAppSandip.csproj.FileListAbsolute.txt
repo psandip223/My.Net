@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\bin\Debug\net6.0\ConsoleAppSandip.exe
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\bin\Debug\net6.0\ConsoleAppSandip.deps.json
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\bin\Debug\net6.0\ConsoleAppSandip.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\bin\Debug\net6.0\ConsoleAppSandip.dll
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\bin\Debug\net6.0\ConsoleAppSandip.pdb
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.dll
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\refint\ConsoleAppSandip.dll
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.pdb
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ConsoleAppSandip.genruntimeconfig.cache
+C:\Users\USER\source\repos\ConsoleAppSandip\ConsoleAppSandip\obj\Debug\net6.0\ref\ConsoleAppSandip.dll
